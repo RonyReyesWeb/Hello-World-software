@@ -1,6 +1,6 @@
 # Overview
 
-As a software engineer, I set up this project to confirm my development
+As a junior software engineer, I set up this project to confirm my development
 environment and practice the workflow I use for every new technology:
 write code, document it, demo it, and publish it.
 

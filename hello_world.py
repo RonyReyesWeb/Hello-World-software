@@ -1,8 +1,3 @@
-"""Hello World — a friendly greeting program.
-
-Prints the classic message, then greets the user by name
-in English and Spanish.
-"""
 from datetime import datetime
 
 
