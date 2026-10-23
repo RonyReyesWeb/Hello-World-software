@@ -11,14 +11,12 @@ def time_of_day_greeting(hour):
 
 
 def main():
-    # The classic first line every programmer writes
     print("Hello World")
 
     name = input("What's your name? ").strip() or "friend"
     greeting = time_of_day_greeting(datetime.now().hour)
     print(f"{greeting}, {name}!")
 
-    # Same welcome in two languages
     for word in ["Welcome", "Bienvenido"]:
         print(f"{word}, {name}!")
 
