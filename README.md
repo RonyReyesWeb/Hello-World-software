@@ -10,7 +10,7 @@ them based on the time of day in English and Spanish.
 My purpose was to verify Python, Git and GitHub work end to end before
 taking on larger projects.
 
-[Software Demo Video](https://youtube/)
+[Software Demo Video](https://www.youtube.com/watch?v=ArUJpKQKATs)
 
 # Development Environment
 
